@@ -1,1 +1,1 @@
-- [Homes Search Tutorial](https://github.com/zufichris/learn.git/angularjs/tutorial)
+- [Homes Search Tutorial](https://github.com/zufichris/learn.git/angularJs/tutorial)
