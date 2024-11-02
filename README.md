@@ -1,3 +1,3 @@
 #LEARN ANYTHING
 
-- [Learn AngularJS](https://github.com/zufichris/learn.git/angularjs)
+- [Learn AngularJS](https://github.com/zufichris/learn.git/angularJs)
