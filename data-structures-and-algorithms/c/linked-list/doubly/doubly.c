@@ -1,11 +1,6 @@
 #include<assert.h>
 #include "header.h"
 
-int main(){
-    testList();
-    return 0;
-}
-
 void testList() {
     printf("Starting linked list tests...\n");
 
@@ -69,3 +64,10 @@ void testList() {
 
     printf("All linked list tests passed!\n");
 }
+
+int main(){
+    testList();
+    return 0;
+}
+
+
