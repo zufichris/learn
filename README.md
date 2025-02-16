@@ -8,14 +8,6 @@
 > Master DSA with any language of your choice and crack FAANG interview to land your dream job!!!
 
 
----
-
-
-## 🌐 [Learn AngularJS](https://github.com/zufichris/learn/tree/main/angularJS)
-
-> Dive into AngularJS with a structured learning path. This repository offers comprehensive resources, tutorials, and examples to master AngularJS for building dynamic web applications.
-
----
 
 
 ### 🙌 Contributing
